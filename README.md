@@ -34,8 +34,6 @@ npm i
 
 Update the contract address in the soroban.js file with the one obtained on step 1. 
 
-Replace with your deployed contract address.
-
 ```shell
 let contractAddress = 'CAAN5X32XWBIX3Q52BR4AJDVBAXPC5M3MVVPAVE5HVES2VWJBPO573L2';
 ```
