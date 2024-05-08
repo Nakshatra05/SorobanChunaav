@@ -14,7 +14,9 @@ A Stellar Soroban Smart Contract and NextJS Front-end App that integrates the Fr
 <h4>Step 1</h4>
 
 Download or clone this repo, then deploy the n2d-soroban-votecontract-v1.rs smart contract in the Soroban Testnet
+
 Follow this tutorial video if you aren't familiar with Soroban contract deployments:
+
 <a href="https://www.youtube.com/watch?v=AwFojd9tii4&t=1057s" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
 Save the contract address once deployed!
