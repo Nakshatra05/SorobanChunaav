@@ -1,5 +1,5 @@
 # Soroban NextJS Vote dApp with Freighter Wallet
-The repo with all the JS files written during the "Compile, Test, Deploy and Call Soroban Smart Contracts" video.
+A Stellar Soroban Smart Contract and NextJS Front-end App that integrates the Freighter wallet that enables users to vote in proposals. 
 
 <img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/vote5.png" width="550" height="370">
 <img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/vote6.png" width="550" height="370">
