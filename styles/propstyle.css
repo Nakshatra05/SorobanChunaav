@@ -1,0 +1,16 @@
+.container {
+  padding:2px;
+  font-family: 'SF Pro Display';
+  color:white;
+}
+.back {
+  background:linear-gradient(90deg, #0d0028, #270e3d, #480f4e, #6e075a, #95005f, #bb005e, #df0056, #ff0048);
+}
+
+.choicecontainer {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  padding: 2%;
+  color: white;
+}
