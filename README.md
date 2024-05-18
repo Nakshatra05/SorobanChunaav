@@ -1,8 +1,11 @@
 # SorobanChunaav - Soroban NextJS Voting dApp with Freighter Wallet
 
-Name : Nakshatra Goel 
-College : IIT Roorkee
-Hackathon : Soroban Build-A-Thon Hackathon
+Name : Nakshatra Goel   
+
+College : IIT Roorkee  
+
+Hackathon : Soroban Build-A-Thon Hackathon  
+
 
 
 ![Screenshot 2024-05-18 183930](https://github.com/Nakshatra05/SorobanChunaav/assets/139595090/4ec43892-9717-401b-8d3c-c307b6230ed5)
