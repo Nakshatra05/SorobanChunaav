@@ -4,7 +4,9 @@
   color:white;
 }
 .back {
-  background:linear-gradient(90deg, #0d0028, #270e3d, #480f4e, #6e075a, #95005f, #bb005e, #df0056, #ff0048);
+  /*background:linear-gradient(90deg, #0d0028, #270e3d, #480f4e, #6e075a, #95005f, #bb005e, #df0056, #ff0048);*/
+  background:linear-gradient(90deg, #0d0028, #330e3d, #370f4e, #030889, #005295, #00bbb8, #00dfd0, #03d294);
+
 }
 
 .choicecontainer {

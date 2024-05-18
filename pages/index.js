@@ -163,8 +163,7 @@ export default function Board() {
               <ul className="list-group mb-1">
                 <li className="list-group-item d-flex justify-content-between" style={{ backgroundColor: '#00000090' }}>
                   <div>
-                    <h6 className="my-0 text-white">Created by</h6>
-                    <img src="n2dlogo.png" width={110}></img>
+                    <h6 className="my-0 text-white"> The Voting Stats </h6>
                   </div>
                 </li>
                 <li className="list-group-item d-flex justify-content-between lh-sm">
@@ -198,7 +197,7 @@ export default function Board() {
               <div className="card">
                 <h5 className="card-header">Proposal Description</h5>
                 <div className="card-body">
-                  <h5 className="card-title mt-3">A new community of blockchain enthusiasts.</h5>
+                  <h5 className="card-title mt-3"> Conducting Smooth Decentralised Elections through Soroban </h5>
                   <p className="card-text mb-4">{description}</p>
                 </div>
               </div>
@@ -235,7 +234,7 @@ export default function Board() {
           </div>
         </div>
         <footer className="my-5 pt-5 text-muted text-center text-small">
-          <p style={{ color: 'white' }} className="mb-1">&copy; 2024 net2dev.io</p>
+          <p style={{ color: 'white' }} className="mb-1">&copy; 2024 Nakshatra.io</p>
           <ul className="list-inline">
           </ul>
         </footer>

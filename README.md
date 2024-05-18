@@ -1,13 +1,9 @@
-# Soroban NextJS Vote dApp with Freighter Wallet
+# SorobanChunaav
+# Soroban NextJS Voting dApp with Freighter Wallet
 A Stellar Soroban Smart Contract and NextJS Front-end App that integrates the Freighter wallet that enables users to vote in proposals. 
 
-<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/vote5.png" width="550" height="370">
-<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/vote6.png" width="550" height="370">
-
-> [!NOTE]  
-> THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
-> NOT FINANCIAL ADVICE
-> USE IT AT YOUR OWN RISK, I'M NOT RESPONSIBLE FOR ANY USE, ISSUES.
+<img src="https://raw.githubusercontent.com/Nakshatracrypto/misc/main/vote5.png" width="550" height="370">
+<img src="https://raw.githubusercontent.com/Nakshatracrypto/misc/main/vote6.png" width="550" height="370">
 
 <h3>Repo Instructions</h3>
 
@@ -15,15 +11,11 @@ A Stellar Soroban Smart Contract and NextJS Front-end App that integrates the Fr
 
 Download or clone this repo, then deploy the n2d-soroban-votecontract-v1.rs smart contract in the Soroban Testnet
 
-Follow this tutorial video if you aren't familiar with Soroban contract deployments:
-
-<a href="https://www.youtube.com/watch?v=AwFojd9tii4&t=1057s" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
-
 Save the contract address once deployed!
 
 <h4>Step 2</h4>
 
-Navigate to the repo folder once downloaded or cloned then install the NextJS instance.
+Navigate to the repo folder once downl oaded or cloned then install the NextJS instance.
 
 ```shell
 cd name-of-folder
@@ -54,26 +46,3 @@ npm run dev
 ```
 
 App should be accessible via: https://localhost:3000
-
-Follow the tutorial video for guidance:
-
-<a href="https://youtu.be/26pdgW8ztQs" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
-
-<h3>Join Stellar's Dev Discord Community</h3>
-
-```shell
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⡟⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⢹⣿⣿⣿
-⣿⣿⣿⡇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢸⣿⣿⣿
-⣿⣿⣿⡇⠄⠄⠄⢠⣴⣾⣵⣶⣶⣾⣿⣦⡄⠄⠄⠄⢸⣿⣿⣿
-⣿⣿⣿⡇⠄⠄⢀⣾⣿⣿⢿⣿⣿⣿⣿⣿⣿⡄⠄⠄⢸⣿⣿⣿
-⣿⣿⣿⡇⠄⠄⢸⣿⣿⣧⣀⣼⣿⣄⣠⣿⣿⣿⠄⠄⢸⣿⣿⣿
-⣿⣿⣿⡇⠄⠄⠘⠻⢷⡯⠛⠛⠛⠛⢫⣿⠟⠛⠄⠄⢸⣿⣿⣿
-⣿⣿⣿⡇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢸⣿⣿⣿
-⣿⣿⣿⣧⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢡⣀⠄⠄⢸⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣆⣸⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-```
-http://discord.gg/stellardev
-
-
