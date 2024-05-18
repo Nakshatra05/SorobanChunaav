@@ -2,8 +2,7 @@
 # Soroban NextJS Voting dApp with Freighter Wallet
 A Stellar Soroban Smart Contract and NextJS Front-end App that integrates the Freighter wallet that enables users to vote in proposals. 
 
-<img src="https://raw.githubusercontent.com/Nakshatracrypto/misc/main/vote5.png" width="550" height="370">
-<img src="https://raw.githubusercontent.com/Nakshatracrypto/misc/main/vote6.png" width="550" height="370">
+![Screenshot 2024-05-18 183930](https://github.com/Nakshatra05/SorobanChunaav/assets/139595090/4ec43892-9717-401b-8d3c-c307b6230ed5)
 
 <h3>Repo Instructions</h3>
 
