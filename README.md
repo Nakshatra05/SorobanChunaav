@@ -4,8 +4,7 @@ A Stellar Soroban Smart Contract and NextJS Front-end App that integrates the Fr
 
 ![Screenshot 2024-05-18 183930](https://github.com/Nakshatra05/SorobanChunaav/assets/139595090/4ec43892-9717-401b-8d3c-c307b6230ed5)
 
-![Screenshot 2024-05-18 185117](https://github.com/Nakshatra05/SorobanChunaav/assets/139595090/18167078-ee4c-453e-8d5d-5e23ef38fb25)
-
+![Screenshot 2024-05-18 185330](https://github.com/Nakshatra05/SorobanChunaav/assets/139595090/a2c8172f-be6b-4821-8daf-db2dfd6deb11)
 
 <h3>Repo Instructions</h3>
 
