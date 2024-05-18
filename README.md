@@ -28,6 +28,8 @@ A Stellar Soroban Smart Contract and NextJS Front-end App that integrates the Fr
 
 Our project incorporates the following technologies: Knowledge of Soroban environment, Deployment on Stellar Network, Rust for Smart Contracts, NextJS for frontend
 
+# Setting up your system
+
 <h3>Repo Instructions</h3>
 
 <h4>Step 1</h4>
